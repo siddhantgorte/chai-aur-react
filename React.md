@@ -12,6 +12,10 @@ Here you are allowed to name a file with .js extension
 when you use the "npm create vite@latest" command then the script file is directly loaded by mentioning it in index.html
 The file name must be with .jsx extension
 
+The react component name must start with uppercase letter
+ 
 <> = This is called Fragment in react. It is basically a <div></div> tag
+
+inside render() you can write <MyApp /> or MyAPP() as it is a function
 
 {username} = Expression, Evaluated expression
