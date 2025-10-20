@@ -17,6 +17,13 @@ function App() {
     }
     else {
       setCounter(counter + 1)
+      /*
+      common interview question. watch chai aur react video 8
+      setCounter(prevCounter => prevCounter + 1)
+      setCounter(prevCounter => prevCounter + 1)
+      setCounter(prevCounter => prevCounter + 1)
+      setCounter(prevCounter => prevCounter + 1)
+      */
     }
   }
   

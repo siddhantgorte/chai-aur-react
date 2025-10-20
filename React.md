@@ -19,3 +19,5 @@ The react component name must start with uppercase letter
 inside render() you can write <MyApp /> or MyAPP() as it is a function
 
 {username} = Expression, Evaluated expression
+
+As class is a reserved keyword in react, className is used instead of class.
